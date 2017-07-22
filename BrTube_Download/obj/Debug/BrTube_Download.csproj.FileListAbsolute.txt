@@ -1,0 +1,31 @@
+c:\users\cidronio\documents\visual studio 2015\Projects\BrTube_Download\BrTube_Download\bin\Debug\BrTube_Download.exe.config
+C:\Users\CIDRONIO\Documents\Visual Studio 2015\Projects\BrTube_Download\BrTube_Download\bin\Debug\BrTube_Download.exe
+C:\Users\CIDRONIO\Documents\Visual Studio 2015\Projects\BrTube_Download\BrTube_Download\bin\Debug\BrTube_Download.pdb
+C:\Users\CIDRONIO\Documents\Visual Studio 2015\Projects\BrTube_Download\BrTube_Download\bin\Debug\MetroFramework.dll
+C:\Users\CIDRONIO\Documents\Visual Studio 2015\Projects\BrTube_Download\BrTube_Download\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\CIDRONIO\Documents\Visual Studio 2015\Projects\BrTube_Download\BrTube_Download\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CIDRONIO\Documents\Visual Studio 2015\Projects\BrTube_Download\BrTube_Download\bin\Debug\YoutubeExtractor.dll
+C:\Users\CIDRONIO\Documents\Visual Studio 2015\Projects\BrTube_Download\BrTube_Download\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CIDRONIO\Documents\Visual Studio 2015\Projects\BrTube_Download\BrTube_Download\bin\Debug\YoutubeExtractor.xml
+C:\Users\CIDRONIO\Documents\Visual Studio 2015\Projects\BrTube_Download\BrTube_Download\obj\Debug\BrTube_Download.csprojResolveAssemblyReference.cache
+C:\Users\CIDRONIO\Documents\Visual Studio 2015\Projects\BrTube_Download\BrTube_Download\obj\Debug\BrTube_Download.Form1.resources
+C:\Users\CIDRONIO\Documents\Visual Studio 2015\Projects\BrTube_Download\BrTube_Download\obj\Debug\BrTube_Download.Properties.Resources.resources
+C:\Users\CIDRONIO\Documents\Visual Studio 2015\Projects\BrTube_Download\BrTube_Download\obj\Debug\BrTube_Download.csproj.GenerateResource.Cache
+C:\Users\CIDRONIO\Documents\Visual Studio 2015\Projects\BrTube_Download\BrTube_Download\obj\Debug\BrTube_Download.exe
+C:\Users\CIDRONIO\Documents\Visual Studio 2015\Projects\BrTube_Download\BrTube_Download\obj\Debug\BrTube_Download.pdb
+C:\BrTube_Download\BrTube_Download\bin\Debug\BrTube_Download.exe.config
+C:\BrTube_Download\BrTube_Download\obj\Debug\BrTube_Download.exe
+C:\BrTube_Download\BrTube_Download\obj\Debug\BrTube_Download.pdb
+C:\BrTube_Download\BrTube_Download\bin\Debug\BrTube_Download.exe
+C:\BrTube_Download\BrTube_Download\bin\Debug\BrTube_Download.pdb
+C:\BrTube_Download\BrTube_Download\bin\Debug\MetroFramework.dll
+C:\BrTube_Download\BrTube_Download\bin\Debug\MetroFramework.Fonts.dll
+C:\BrTube_Download\BrTube_Download\bin\Debug\Newtonsoft.Json.dll
+C:\BrTube_Download\BrTube_Download\bin\Debug\YoutubeExtractor.dll
+C:\BrTube_Download\BrTube_Download\bin\Debug\Newtonsoft.Json.xml
+C:\BrTube_Download\BrTube_Download\bin\Debug\YoutubeExtractor.xml
+C:\BrTube_Download\BrTube_Download\obj\Debug\BrTube_Download.Form1.resources
+C:\BrTube_Download\BrTube_Download\obj\Debug\BrTube_Download.Properties.Resources.resources
+C:\BrTube_Download\BrTube_Download\obj\Debug\BrTube_Download.csproj.GenerateResource.Cache
+C:\BrTube_Download\BrTube_Download\bin\Debug\Tulpep.NotificationWindow.dll
+C:\BrTube_Download\BrTube_Download\obj\Debug\BrTube_Download.csprojResolveAssemblyReference.cache
